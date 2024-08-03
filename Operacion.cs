@@ -13,7 +13,7 @@ namespace EjercicioInterfaces
 
         public Operacion() { }
 
-        //Implementando metodos abstractos
+        //Implementando metodos 
 
         public double Potencia()
         {
